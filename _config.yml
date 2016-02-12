@@ -1,0 +1,14 @@
+layout_spectrum: 0
+typography_spectrum: 1
+color:
+  lightness: 0.3561231
+  brandStrength: 0.1131038
+  saturation: 0.2735558
+  rhythmicContrast: 0.2893617
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: Martin N Hinze
